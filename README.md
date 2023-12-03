@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React.js, Next.js, Python**
 
-- ⚡ interesting fact **I also strive to improve them by studying psychology so I can understand emotions and behavior of people around me and be a better listener.**
+- ⚡ Interesting fact: **I strive to improve my communication skills by studying psychology so I can understand emotions and behavior of people around me and be a better listener.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
