@@ -12,12 +12,13 @@
 
 <h1 align="center">Hi 👋, I'm Andrey Tuguchev</h1>
 
-<div>
-<font size="5">I am a Frontend Developer with 4 years of experience with JavaScript and<br/> 2 years of experience  with React.js, Next.js<br/>
-I use pure JavaScript where I can add functionality without using any library. <br/>
-In addition to that I have experience working with Typescript.<br/>
-I strive to improve my communication skills by studying psychology so I can understand emotions and behavior of people around me and be a better listener.</font>
-<div>
+
+#### I am a Frontend Developer with 4 years of experience with JavaScript and 2 years of experience  with React.js, Next.js<br/>
+#### I use pure JavaScript where I can add functionality without using any library. <br/>
+#### In addition to that I have experience working with Typescript.<br/>
+#### I strive to improve my communication skills by studying psychology so I can understand emotions and behavior of people around me and be a better listener.
+
+<br/>
 
 <h3 align="left"> ✍ About Me:<h3>
 
