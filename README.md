@@ -18,6 +18,8 @@
 #### In addition to that I have experience working with Typescript.<br/>
 #### I strive to improve my communication skills by studying psychology so I can understand emotions and behavior of people around me and be a better listener.
 
+#### I have a passion for website speed optimization and I optimize website's loading speed from 20 to at least 90+ score based on Google PageSpeed Insights testing tool. I've optimized over 200 websites during the past 4 years. 
+
 <br/>
 
 <h3 align="left"> ✍ About Me:<h3>
