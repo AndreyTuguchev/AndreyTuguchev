@@ -11,15 +11,19 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Andrey Tuguchev</h1>
-<h3 align="center">A passionate Frontend Developer with 4 years of experience.</h3>
+
+<div>
+<font size="5">I am a Frontend Developer with 4 years of experience with JavaScript and<br/> 2 years of experience  with React.js, Next.js<br/>
+I use pure JavaScript where I can add functionality without using any library. <br/>
+In addition to that I have experience working with Typescript.<br/>
+I strive to improve my communication skills by studying psychology so I can understand emotions and behavior of people around me and be a better listener.</font>
+<div>
 
 <h3 align="left"> ✍ About Me:<h3>
 
 - 🌐 I’m working as a Software Engineer and building Next.js based applications integrating them with different APIs like **Google Maps Places, ReSend emails, GoHighLevel CRM, RapidAPI**
 
 - 👩‍💻 currently learning **JavaScript, React.js, Next.js, Python**
-
-- ⚡ Interesting fact: **I strive to improve my communication skills by studying psychology so I can understand emotions and behavior of people around me and be a better listener.**
 
 - 💬  How to reach me:   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreytuguchev/)
 
@@ -30,10 +34,12 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeSctipt-316192?style=for-the-badge&logo=typescript&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 ![ShadCN/UI](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcn/ui&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
@@ -43,7 +49,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=fff)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
