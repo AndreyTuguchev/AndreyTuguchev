@@ -55,6 +55,29 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
+<details>
+<summary>Tech Stack:</summary>
+JavaScript<br/>
+TypeScript<br/>
+React.js<br/>
+Next.js<br/>
+Python<br/>
+Node.js<br/>
+TailwindCSS<br/>
+ShadCN/UI<br/>
+Webpack<br/>
+Vite<br/>
+AWS<br/>
+MongoDB<br/>
+MySQL<br/>
+Postgres<br/>
+Ubuntu Linux<br/>
+Selenium<br/>
+Figma<br/>
+</details>
+
+
+
 <br/>
 <h3 align="left">My Stats:</h3>
 
