@@ -54,8 +54,8 @@
 <br/>
 <h3 align="left">My Stats:</h3>
 
-**<p align="left" items="center" >[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyTuguchev&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)</p>**
-**<p align="left" items="center" >[![GitHub Streak](https://streak-stats.demolab.com?user=AndreyTuguchev&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)</p>**
+**<p align="left" items="center" >![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyTuguchev&layout=compact&theme=transparent)</p>**
+**<p align="left" items="center" >[![GitHub Streak](https://streak-stats.demolab.com?user=AndreyTuguchev&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)]</p>**
 
 
 
