@@ -15,10 +15,11 @@
 
 #### I am a Frontend Developer with 5 years of experience with JavaScript and 4 years of experience  with React.js, Next.js<br/>
 #### I use pure JavaScript where I can add functionality without using any library. <br/>
-#### In addition to that I have experience working with Typescript.<br/>
+#### In addition to that I have experience working with Typescript and Python.<br/>
 #### I strive to improve my communication skills by studying psychology so I can understand emotions and behavior of people around me and be a better listener.
 
 #### I have a passion for website speed optimization and I optimize website's loading speed from 20 to at least 90+ score based on Google PageSpeed Insights testing tool.
+#### In addition to that I can create a web scraper for any type of static or dynamic website.
 
 <br/>
 
